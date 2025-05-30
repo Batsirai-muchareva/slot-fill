@@ -1,0 +1,15 @@
+{
+    "name": "batsiraimuchareva/slot-fill",
+    "autoload": {
+        "psr-4": {
+            "Batsirai\\SlotFill\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Batsirai Muchareva",
+            "email": "162136788+Batsirai-muchareva@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

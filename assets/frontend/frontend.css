@@ -1,0 +1,11 @@
+/*html {*/
+/*    -webkit-text-size-adjust: 100%;*/
+/*    tab-size: 4;*/
+/*    line-height: 1.5;*/
+/*    font-family: sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";*/
+/*}*/
+
+h1 {
+    --wp--preset--font-size--xx-large: none;
+    font-size: var(--wp--preset--font-size--xx-large);
+}
