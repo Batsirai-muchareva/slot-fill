@@ -1,1 +1,8 @@
 import './available-slots/plugin-post-status-info'
+import './available-slots/plugin-block-settings-menu-item'
+import './available-slots/plugin-document-setting-panel'
+import './available-slots/plugin-more-menu-item'
+import './available-slots/plugin-post-publish-panel'
+import './available-slots/plugin-pre-publish-panel'
+import './available-slots/plugin-side-bar'
+import './available-slots/plugin-sidebar-more-menu-item-test'
